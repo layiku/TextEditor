@@ -30,3 +30,6 @@ Thumbs.db
 # Test fixtures (generated at runtime)
 tests/fixtures/tmp_*.txt
 tests/fixtures/tmp_*.ini
+
+# Cursor settings
+.cursor/
